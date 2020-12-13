@@ -1,0 +1,191 @@
+country,cluster,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+Afghanistan,0,0,0.103,0
+Albania,0,0,0,0
+Algeria,0,0,0.16,0
+Andorra,0,0,0,0
+Angola,0,0,0,0
+Antigua and Barbuda,0,0,0,0
+Argentina,0,0,0.531,0
+Armenia,2,0,0.337,0
+Australia,0,0,0,0
+Austria,4,19.986,0.222,5.996
+Azerbaijan,0,0,0,0
+Bahamas,0,0,0,0
+Bahrain,5,0,0,0
+Bangladesh,0,0,0.085,0
+Barbados,0,0,0,0
+Belarus,2,0,0.529,0
+Belgium,1,160.661,5.177,32.788
+Belize,0,0,0,0
+Benin,0,0,0,0
+Bhutan,0,0,0,0
+Bolivia,0,0,0.857,0
+Bosnia and Herzegovina,0,0,0.61,0
+Botswana,0,0,0,0
+Brazil,2,0,3.571,0
+Brunei,0,0,0,0
+Bulgaria,3,52.53,0.432,7.34
+Burkina Faso,0,0,0,0
+Burundi,0,0,0,0
+Cambodia,0,0,0,0
+Cameroon,0,0,0.113,0
+Canada,0,0,4.425,0
+Cape Verde,2,0,0,0
+Central African Republic,0,0,0,0
+Chad,0,0,0.244,0
+Chile,2,0,1.151,0
+China,0,0,0,0
+Colombia,0,0,0.314,0
+Comoros,0,0,0,0
+Congo,0,0,0.725,0
+Costa Rica,0,0,0,0
+Cote d'Ivoire,0,0,0,0
+Croatia,4,35.564,0,0
+Cuba,0,0,0,0
+Cyprus,0,0,0,0
+Czechia,4,11.953,0.28,3.268
+Democratic Republic of Congo,0,0,0,0
+Denmark,4,25.379,0.691,6.043
+Djibouti,0,0,0,0
+Dominica,0,0,0,0
+Dominican Republic,0,0,1.198,0
+Ecuador,0,0,0.227,0
+Egypt,0,0,0.147,0
+El Salvador,0,0,0.463,0
+Equatorial Guinea,2,0,0.713,0
+Eritrea,0,0,0,0
+Estonia,4,30.907,0.754,4.523
+Eswatini,0,0,0,0
+Ethiopia,0,0,0,0
+Fiji,0,0,0,0
+Finland,4,25.809,0.541,5.956
+France,1,312.546,5.377,34.562
+Gabon,2,0,0.449,0
+Gambia,0,0,0,0
+Georgia,0,0,0.251,0
+Germany,0,0,0.275,0
+Ghana,0,0,0,0
+Greece,0,0,0.096,0
+Grenada,0,0,0,0
+Guatemala,0,0,0,0
+Guinea,0,0,0.076,0
+Guinea-Bissau,2,0,0,0
+Guyana,0,0,0,0
+Haiti,0,0,0.175,0
+Honduras,0,0,1.01,0
+Hungary,3,68.113,0.621,0
+Iceland,0,0,0,0
+India,0,0,0.071,0
+Indonesia,0,0,0.055,0
+International,0,0,0,0
+Iran,0,0,0.845,0
+Iraq,0,0,0,0
+Ireland,3,92.956,1.823,11.949
+Israel,0,0,0.231,0
+Italy,1,203.566,4.333,14.141
+Jamaica,0,0,0,0
+Japan,0,0,0.127,0
+Jordan,0,0,0,0
+Kazakhstan,0,0,0,0
+Kenya,0,0,0.037,0
+Kosovo,0,0,0,0
+Kuwait,5,0,1.405,0
+Kyrgyzstan,0,0,0,0
+Laos,0,0,0,0
+Latvia,4,14.314,0,0
+Lebanon,0,0,0,0
+Lesotho,0,0,0,0
+Liberia,0,0,0,0
+Libya,0,0,0,0
+Liechtenstein,0,0,0,0
+Lithuania,0,0,0,0
+Luxembourg,3,118.215,0,17.573
+Madagascar,0,0,0,0
+Malawi,0,0,0,0
+Malaysia,0,0,0.031,0
+Maldives,2,0,0,0
+Mali,0,0,0.099,0
+Malta,0,2.265,0,0
+Marshall Islands,0,0,0,0
+Mauritania,0,0,0,0
+Mauritius,0,0,0,0
+Mexico,0,0,1.993,0
+Moldova,2,0,2.231,0
+Monaco,0,0,0,0
+Mongolia,0,0,0,0
+Montenegro,0,0,0,0
+Morocco,0,0,0.054,0
+Mozambique,0,0,0,0
+Myanmar,0,0,0,0
+Namibia,0,0,0,0
+Nepal,0,0,0,0
+Netherlands,0,0,1.634,21.068
+New Zealand,0,0,0,0
+Nicaragua,0,0,0,0
+Niger,0,0,0.041,0
+Nigeria,0,0,0.015,0
+North Macedonia,0,0,0,0
+Norway,4,11.252,0.553,0
+Oman,2,0,0.196,0
+Pakistan,0,0,0.29,0
+Palestine,0,0,0,0
+Panama,2,0,0.927,0
+Papua New Guinea,0,0,0,0
+Paraguay,0,0,0,0
+Peru,2,0,2.972,0
+Philippines,0,0,0.164,0
+Poland,3,67.06,0.581,0
+Portugal,3,66.688,0.883,10.592
+Qatar,5,0,0,0
+Romania,0,0,0.884,11.696
+Russia,2,0,0.637,0
+Rwanda,0,0,0,0
+Saint Kitts and Nevis,0,0,0,0
+Saint Lucia,0,0,0,0
+Saint Vincent and the Grenadines,0,0,0,0
+Samoa,0,0,0,0
+San Marino,5,0,0,0
+Sao Tome and Principe,2,0,4.563,0
+Saudi Arabia,2,0,0.287,0
+Senegal,0,0,0.119,0
+Serbia,0,0,0.294,0
+Seychelles,0,0,0,0
+Sierra Leone,0,0,0,0
+Singapore,2,0,0,0
+Slovakia,0,3.846,0,0
+Slovenia,4,15.393,0,3.367
+Solomon Islands,0,0,0,0
+Somalia,0,0,0.063,0
+South Africa,0,0,0.32,0
+South Korea,0,0,0,0
+South Sudan,0,0,0,0
+Spain,0,0,4.641,0
+Sri Lanka,0,0,0,0
+Sudan,0,0,0,0
+Suriname,0,0,0,0
+Sweden,2,0,5.743,0
+Switzerland,0,0,0.231,0
+Syria,0,0,0,0
+Taiwan,0,0,0,0
+Tajikistan,0,0,0.629,0
+Tanzania,0,0,0,0
+Thailand,0,0,0,0
+Timor,0,0,0,0
+Togo,0,0,0,0
+Trinidad and Tobago,0,0,0,0
+Tunisia,0,0,0,0
+Turkey,0,0,0.652,0
+Uganda,0,0,0,0
+Ukraine,0,0,0.389,0
+United Arab Emirates,2,0,0.202,0
+United Kingdom,1,143.078,5.2,19.356
+United States,1,138.742,5.359,32.19
+Uruguay,0,0,0,0
+Uzbekistan,0,0,0,0
+Vanuatu,0,0,0,0
+Vatican,0,0,0,0
+Venezuela,0,0,0,0
+Vietnam,0,0,0,0
+Yemen,0,0,0,0
+Zambia,0,0,0,0
+Zimbabwe,0,0,0,0

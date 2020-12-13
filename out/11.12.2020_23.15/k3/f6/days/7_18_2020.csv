@@ -1,0 +1,191 @@
+country,cluster,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+Afghanistan,0,0,0.437,0
+Albania,0,0,1.39,0
+Algeria,0,0,0.251,0
+Andorra,0,0,0,0
+Angola,0,0,0,0
+Antigua and Barbuda,0,0,0,0
+Argentina,1,0,0.929,0
+Armenia,1,0,3.712,0
+Australia,0,0,0.157,0
+Austria,0,9.66,0,1.221
+Azerbaijan,0,0,0.789,0
+Bahamas,0,0,0,0
+Bahrain,2,0,0,0
+Bangladesh,0,0,0.206,0
+Barbados,0,0,0,0
+Belarus,0,0,0.423,0
+Belgium,0,13.892,0,2.589
+Belize,0,0,0,0
+Benin,0,0,0,0
+Bhutan,0,0,0,0
+Bolivia,1,0,4.883,0
+Bosnia and Herzegovina,1,0,0.305,0
+Botswana,0,0,0,0
+Brazil,1,0,4.333,0
+Brunei,0,0,0,0
+Bulgaria,0,87.214,0.288,4.749
+Burkina Faso,0,0,0,0
+Burundi,0,0,0,0
+Cambodia,0,0,0,0
+Cameroon,0,0,0,0
+Canada,0,0,0.212,0
+Cape Verde,1,0,3.597,0
+Central African Republic,0,0,0.414,0
+Chad,0,0,0,0
+Chile,1,0,5.127,0
+China,0,0,0.001,0
+Colombia,1,0,4.481,0
+Comoros,0,0,0,0
+Congo,0,0,0,0
+Costa Rica,1,0,1.374,0
+Cote d'Ivoire,0,0,0.152,0
+Croatia,0,33.859,0,0
+Cuba,0,0,0,0
+Cyprus,0,0,0,0
+Czechia,0,6.817,0,1.774
+Democratic Republic of Congo,0,0,0,0
+Denmark,0,2.762,0,0.345
+Djibouti,0,0,0,0
+Dominica,0,0,0,0
+Dominican Republic,1,0,2.673,0
+Ecuador,0,0,1.814,0
+Egypt,0,0,0.616,0
+El Salvador,0,0,2.313,0
+Equatorial Guinea,0,0,0,0
+Eritrea,0,0,0,0
+Estonia,0,3.015,0,1.508
+Eswatini,1,0,0,0
+Ethiopia,0,0,0.113,0
+Fiji,0,0,0,0
+Finland,0,0,0,0
+France,0,101.327,0,6.894
+Gabon,0,0,0,0
+Gambia,0,0,0.414,0
+Georgia,0,0,0,0
+Germany,0,0,0.036,0
+Ghana,0,0,0.032,0
+Greece,0,0,0,0
+Grenada,0,0,0,0
+Guatemala,2,0,0.335,0
+Guinea,0,0,0,0
+Guinea-Bissau,0,0,0,0
+Guyana,0,0,0,0
+Haiti,0,0,0,0
+Honduras,1,0,3.433,0
+Hungary,0,8.592,0.104,0
+Iceland,0,0,0,0
+India,0,0,0.393,0
+Indonesia,0,0,0.216,0
+International,0,0,0,0
+Iran,0,0,2.238,0
+Iraq,0,0,1.865,0
+Ireland,0,2.025,0.203,1.62
+Israel,1,0,0.924,0
+Italy,0,13.347,0.232,0.827
+Jamaica,0,0,0,0
+Japan,0,0,0.008,0
+Jordan,0,0,0.098,0
+Kazakhstan,0,0,0,0
+Kenya,0,0,0.056,0
+Kosovo,1,0,3.104,0
+Kuwait,1,0,0.702,0
+Kyrgyzstan,2,0,111.431,0
+Laos,0,0,0,0
+Latvia,0,1.59,0,0
+Lebanon,0,0,0,0
+Lesotho,0,0,0,0
+Liberia,0,0,0.198,0
+Libya,0,0,0.146,0
+Liechtenstein,0,0,0,0
+Lithuania,0,0,0.367,0
+Luxembourg,1,76.68,0,9.585
+Madagascar,0,0,0.036,0
+Malawi,0,0,0,0
+Malaysia,0,0,0,0
+Maldives,0,0,0,0
+Mali,0,0,0,0
+Malta,0,0,0,0
+Marshall Islands,0,0,0,0
+Mauritania,0,0,0.43,0
+Mauritius,0,0,0,0
+Mexico,0,0,4.483,0
+Moldova,1,0,1.239,0
+Monaco,0,0,0,0
+Mongolia,0,0,0,0
+Montenegro,1,0,6.369,0
+Morocco,0,0,0.135,0
+Mozambique,0,0,0.032,0
+Myanmar,0,0,0,0
+Namibia,0,0,0,0
+Nepal,0,0,0,0
+Netherlands,0,0,-0.117,1.459
+New Zealand,0,0,0,0
+Nicaragua,0,0,0,0
+Niger,0,0,0,0
+Nigeria,0,0,0.029,0
+North Macedonia,1,0,3.84,0
+Norway,0,0,0,0
+Oman,2,0,1.958,0
+Pakistan,0,0,0.208,0
+Palestine,1,0,1.176,0
+Panama,1,0,7.648,0
+Papua New Guinea,0,0,0,0
+Paraguay,0,0,0.14,0
+Peru,1,0,6.035,0
+Philippines,0,0,1.031,0
+Poland,0,40.981,0.159,0
+Portugal,0,44.328,0.196,6.375
+Qatar,1,0,0.347,0
+Romania,0,0,1.092,14.555
+Russia,0,0,0.836,0
+Rwanda,0,0,0.077,0
+Saint Kitts and Nevis,0,0,0,0
+Saint Lucia,0,0,0,0
+Saint Vincent and the Grenadines,0,0,0,0
+Samoa,0,0,0,0
+San Marino,0,0,0,0
+Sao Tome and Principe,0,0,0,0
+Saudi Arabia,1,0,1.149,0
+Senegal,0,0,0.179,0
+Serbia,0,0,1.323,0
+Seychelles,0,0,0,0
+Sierra Leone,0,0,0,0
+Singapore,0,0,0,0
+Slovakia,0,1.282,0,0
+Slovenia,0,9.139,0,0.962
+Solomon Islands,0,0,0,0
+Somalia,0,0,0,0
+South Africa,2,0,2.428,0
+South Korea,0,0,0.02,0
+South Sudan,0,0,0,0
+Spain,0,0,0,0
+Sri Lanka,0,0,0,0
+Sudan,0,0,0.114,0
+Suriname,1,0,1.705,0
+Sweden,0,0,0.99,0
+Switzerland,0,0,0,0
+Syria,0,0,0,0
+Taiwan,0,0,0,0
+Tajikistan,0,0,0.105,0
+Tanzania,0,0,0,0
+Thailand,0,0,0,0
+Timor,0,0,0,0
+Togo,0,0,0,0
+Trinidad and Tobago,0,0,0,0
+Tunisia,0,0,0,0
+Turkey,0,0,0.202,0
+Uganda,0,0,0,0
+Ukraine,0,0,0.526,0
+United Arab Emirates,0,0,0.101,0
+United Kingdom,0,24.438,0.133,2.018
+United States,1,174.687,2.604,19.326
+Uruguay,0,0,0.288,0
+Uzbekistan,0,0,0.12,0
+Vanuatu,0,0,0,0
+Vatican,0,0,0,0
+Venezuela,0,0,0.106,0
+Vietnam,0,0,0,0
+Yemen,0,0,0.101,0
+Zambia,0,0,0.598,0
+Zimbabwe,0,0,0.067,0

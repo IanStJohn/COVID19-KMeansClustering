@@ -1,0 +1,191 @@
+country,cluster,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+Afghanistan,8,0,0.103,0
+Albania,6,0,0.347,0
+Algeria,4,0,0.433,0
+Andorra,3,0,12.942,0
+Angola,8,0,0,0
+Antigua and Barbuda,0,0,0,0
+Argentina,1,0,0.066,0
+Armenia,2,0,0,0
+Australia,6,0,0.157,0
+Austria,5,92.046,1.11,27.203
+Azerbaijan,4,0,0,0
+Bahamas,8,0,0,0
+Bahrain,2,0,0,0
+Bangladesh,8,0,0,0
+Barbados,2,0,0,0
+Belarus,4,0,0,0
+Belgium,7,475.684,11.39,107.424
+Belize,1,0,0,0
+Benin,8,0,0,0
+Bhutan,8,0,0,0
+Bolivia,8,0,0.086,0
+Bosnia and Herzegovina,6,0,0.305,0
+Botswana,8,0,0,0
+Brazil,4,0,0.165,0
+Brunei,1,0,0,0
+Bulgaria,4,0,0.576,0
+Burkina Faso,8,0,0,0
+Burundi,8,0,0,0
+Cambodia,8,0,0,0
+Cameroon,4,0,0.038,0
+Canada,2,0,1.06,0
+Cape Verde,8,0,0,0
+Central African Republic,8,0,0,0
+Chad,8,0,0,0
+Chile,2,0,0.209,0
+China,8,0,0.003,0
+Colombia,1,0,0.118,0
+Comoros,8,0,0,0
+Congo,8,0,0,0
+Costa Rica,4,0,0,0
+Cote d'Ivoire,8,0,0,0
+Croatia,6,0,0.244,0
+Cuba,1,0,0,0
+Cyprus,0,0,1.142,0
+Czechia,2,35.111,0.84,8.217
+Democratic Republic of Congo,8,0,0,0
+Denmark,5,89.085,2.762,23.998
+Djibouti,6,0,0,0
+Dominica,8,0,0,0
+Dominican Republic,6,0,0.737,0
+Ecuador,6,0,1.417,0
+Egypt,1,0,0.078,0
+El Salvador,8,0,0,0
+Equatorial Guinea,8,0,0,0
+Eritrea,8,0,0,0
+Estonia,5,88.953,0.754,15.077
+Eswatini,8,0,0,0
+Ethiopia,8,0,0,0
+Fiji,8,0,0,0
+Finland,2,32.487,0.18,12.995
+France,7,418.271,17.189,100.439
+Gabon,8,0,0,0
+Gambia,8,0,0,0
+Georgia,4,0,0,0
+Germany,3,0,2.005,0
+Ghana,8,0,0,0
+Greece,4,0,0.959,0
+Grenada,2,0,0,0
+Guatemala,8,0,0,0
+Guinea,1,0,0,0
+Guinea-Bissau,1,0,0,0
+Guyana,4,0,0,0
+Haiti,8,0,0,0
+Honduras,8,0,0.101,0
+Hungary,4,57.348,0.518,0
+Iceland,5,120.147,0,32.234
+India,8,0,0,0
+Indonesia,8,0,0.04,0
+International,8,0,0,0
+Iran,2,0,1.595,0
+Iraq,1,0,0,0
+Ireland,5,142.574,4.455,27.745
+Israel,0,0,0.578,0
+Italy,7,542.64,12.669,67.282
+Jamaica,8,0,0,0
+Japan,1,0,0.047,0
+Jordan,8,0,0,0
+Kazakhstan,1,0,0.16,0
+Kenya,8,0,0.019,0
+Kosovo,8,0,0,0
+Kuwait,2,0,0,0
+Kyrgyzstan,1,0,0.153,0
+Laos,8,0,0,0
+Latvia,2,16.435,0.53,0
+Lebanon,1,0,0.147,0
+Lesotho,8,0,0,0
+Liberia,8,0,0,0
+Libya,8,0,0,0
+Liechtenstein,2,0,0,0
+Lithuania,2,0,0,0
+Luxembourg,7,322.696,1.598,55.913
+Madagascar,8,0,0,0
+Malawi,8,0,0,0
+Malaysia,4,0,0.093,0
+Maldives,8,0,0,0
+Mali,8,0,0,0
+Malta,6,20.383,0,6.794
+Marshall Islands,8,0,0,0
+Mauritania,8,0,0,0
+Mauritius,6,0,0,0
+Mexico,1,0,0.078,0
+Moldova,2,0,0.496,0
+Monaco,3,0,0,0
+Mongolia,8,0,0,0
+Montenegro,0,0,0,0
+Morocco,1,0,0.108,0
+Mozambique,8,0,0,0
+Myanmar,8,0,0,0
+Namibia,8,0,0,0
+Nepal,8,0,0,0
+Netherlands,0,0,8.696,74.76
+New Zealand,6,0,0,0
+Nicaragua,8,0,0,0
+Niger,8,0,0,0
+Nigeria,8,0,0.01,0
+North Macedonia,2,0,0.48,0
+Norway,0,58.658,1.66,0
+Oman,4,0,0,0
+Pakistan,8,0,0.005,0
+Palestine,4,0,0,0
+Panama,0,0,1.159,0
+Papua New Guinea,8,0,0,0
+Paraguay,1,0,0,0
+Peru,4,0,0.182,0
+Philippines,4,0,0.265,0
+Poland,6,0,0.37,0
+Portugal,5,103.759,3.629,24.027
+Qatar,0,0,0,0
+Romania,2,0,0.936,4.314
+Russia,4,0,0.027,0
+Rwanda,8,0,0,0
+Saint Kitts and Nevis,8,0,0,0
+Saint Lucia,8,0,0,0
+Saint Vincent and the Grenadines,6,0,0,0
+Samoa,8,0,0,0
+San Marino,8,0,0,0
+Sao Tome and Principe,8,0,0,0
+Saudi Arabia,4,0,0.115,0
+Senegal,8,0,0,0
+Serbia,0,0,1.176,0
+Seychelles,8,0,0,0
+Sierra Leone,8,0,0,0
+Singapore,6,0,0.171,0
+Slovakia,4,0,0,0
+Slovenia,2,54.836,1.443,14.43
+Solomon Islands,8,0,0,0
+Somalia,8,0,0,0
+South Africa,8,0,0.067,0
+South Korea,1,0,0.098,0
+South Sudan,8,0,0,0
+Spain,3,0,18.18,0
+Sri Lanka,8,0,0,0
+Sudan,8,0,0,0
+Suriname,8,0,1.705,0
+Sweden,0,0,6.931,0
+Switzerland,3,0,6.355,0
+Syria,8,0,0,0
+Taiwan,8,0,0,0
+Tajikistan,8,0,0,0
+Tanzania,8,0,0,0
+Thailand,1,0,0.057,0
+Timor,8,0,0,0
+Togo,8,0,0.121,0
+Trinidad and Tobago,1,0,0.715,0
+Tunisia,1,0,0.338,0
+Turkey,2,0,0.818,0
+Uganda,8,0,0,0
+Ukraine,4,0,0.114,0
+United Arab Emirates,2,0,0.101,0
+United Kingdom,5,217.291,10.856,31.229
+United States,5,77.876,4.208,14.888
+Uruguay,4,0,0,0
+Uzbekistan,8,0,0,0
+Vanuatu,8,0,0,0
+Vatican,8,0,0,0
+Venezuela,8,0,0.07,0
+Vietnam,8,0,0,0
+Yemen,8,0,0,0
+Zambia,8,0,0,0
+Zimbabwe,8,0,0,0

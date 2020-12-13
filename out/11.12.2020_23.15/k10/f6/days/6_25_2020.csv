@@ -1,0 +1,191 @@
+country,cluster,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+Afghanistan,2,0,0.925,0
+Albania,6,0,0.695,0
+Algeria,3,0,0.205,0
+Andorra,7,0,0,0
+Angola,7,0,0,0
+Antigua and Barbuda,1,0,0,0
+Argentina,5,0,0.752,0
+Armenia,1,0,3.712,0
+Australia,7,0,0,0
+Austria,0,6.662,0.555,1.221
+Azerbaijan,5,0,0.592,0
+Bahamas,7,0,0,0
+Bahrain,1,0,1.175,0
+Bangladesh,6,0,0.237,0
+Barbados,7,0,0,0
+Belarus,5,0,0.529,0
+Belgium,0,22.089,0.345,3.279
+Belize,7,0,0,0
+Benin,8,0,0.082,0
+Bhutan,7,0,0,0
+Bolivia,4,0,3.17,0
+Bosnia and Herzegovina,6,0,0.61,0
+Botswana,7,0,0,0
+Brazil,1,0,5.368,0
+Brunei,7,0,0,0
+Bulgaria,9,55.264,0.288,2.303
+Burkina Faso,7,0,0,0
+Burundi,7,0,0,0
+Cambodia,7,0,0,0
+Cameroon,7,0,0,0
+Canada,8,0,0.609,0
+Cape Verde,8,0,0,0
+Central African Republic,6,0,0.414,0
+Chad,7,0,0,0
+Chile,1,0,8.998,0
+China,7,0,0.001,0
+Colombia,5,0,3.203,0
+Comoros,8,0,0,0
+Congo,7,0,0,0
+Costa Rica,6,0,0,0
+Cote d'Ivoire,8,0,0.076,0
+Croatia,6,10.231,0,0
+Cuba,7,0,0,0
+Cyprus,7,0,0,0
+Czechia,0,6.256,0.187,1.121
+Democratic Republic of Congo,3,0,0,0
+Denmark,0,6.215,0,1.554
+Djibouti,3,0,0,0
+Dominica,7,0,0,0
+Dominican Republic,5,0,0.645,0
+Ecuador,4,0,3.911,0
+Egypt,2,0,0.811,0
+El Salvador,6,0,1.079,0
+Equatorial Guinea,1,0,0,0
+Eritrea,7,0,0,0
+Estonia,0,3.769,0,0.754
+Eswatini,2,0,0.862,0
+Ethiopia,7,0,0.026,0
+Fiji,7,0,0,0
+Finland,7,0,0,0
+France,9,139.352,0.322,9.544
+Gabon,5,0,0.449,0
+Gambia,7,0,0,0
+Georgia,7,0,0,0
+Germany,8,0,0.143,0
+Ghana,2,0,0,0
+Greece,7,0,0.096,0
+Grenada,7,0,0,0
+Guatemala,5,0,1.228,0
+Guinea,7,0,0,0
+Guinea-Bissau,7,0,0,0
+Guyana,8,0,0,0
+Haiti,8,0,0.351,0
+Honduras,4,0,0.909,0
+Hungary,0,18.84,0.104,0
+Iceland,3,0,0,0
+India,2,0,0.295,0
+Indonesia,3,0,0.172,0
+International,7,0,0,0
+Iran,6,0,1.595,0
+Iraq,5,0,2.66,0
+Ireland,0,6.076,0.203,2.43
+Israel,5,0,0.462,0
+Italy,0,26.761,0.562,1.704
+Jamaica,3,0,0,0
+Japan,7,0,0.032,0
+Jordan,7,0,0,0
+Kazakhstan,6,0,0.213,0
+Kenya,3,0,0.037,0
+Kosovo,5,0,1.035,0
+Kuwait,1,0,0.468,0
+Kyrgyzstan,6,0,0,0
+Laos,7,0,0,0
+Latvia,0,4.241,0,0
+Lebanon,3,0,0,0
+Lesotho,7,0,0,0
+Liberia,3,0,0,0
+Libya,3,0,0,0
+Liechtenstein,7,0,0,0
+Lithuania,7,0,0,0
+Luxembourg,0,20.768,0,1.598
+Madagascar,7,0,0,0
+Malawi,7,0,0.052,0
+Malaysia,7,0,0,0
+Maldives,6,0,0,0
+Mali,7,0,0.049,0
+Malta,8,2.265,0,2.265
+Marshall Islands,7,0,0,0
+Mauritania,5,0,0.645,0
+Mauritius,7,0,0,0
+Mexico,5,0,5.708,0
+Moldova,4,0,1.735,0
+Monaco,7,0,0,0
+Mongolia,7,0,0,0
+Montenegro,6,0,0,0
+Morocco,2,0,0.027,0
+Mozambique,7,0,0,0
+Myanmar,7,0,0,0
+Namibia,8,0,0,0
+Nepal,2,0,0.069,0
+Netherlands,8,0,0.175,3.327
+New Zealand,7,0,0,0
+Nicaragua,7,0,0,0
+Niger,7,0,0,0
+Nigeria,3,0,0.034,0
+North Macedonia,5,0,2.88,0
+Norway,7,3.32,0,0
+Oman,1,0,0.392,0
+Pakistan,2,0,0.267,0
+Palestine,8,0,0,0
+Panama,1,0,3.94,0
+Papua New Guinea,7,0,0,0
+Paraguay,8,0,0,0
+Peru,4,0,5.308,0
+Philippines,8,0,0.073,0
+Poland,9,52.158,0.423,0
+Portugal,9,42.759,0.588,6.571
+Qatar,1,0,0.694,0
+Romania,6,0,0.52,10.344
+Russia,5,0,0.624,0
+Rwanda,7,0,0,0
+Saint Kitts and Nevis,7,0,0,0
+Saint Lucia,7,0,0,0
+Saint Vincent and the Grenadines,7,0,0,0
+Samoa,7,0,0,0
+San Marino,7,0,0,0
+Sao Tome and Principe,3,0,0,0
+Saudi Arabia,4,0,1.178,0
+Senegal,8,0,0.06,0
+Serbia,2,0,0.147,0
+Seychelles,7,0,0,0
+Sierra Leone,7,0,0.125,0
+Singapore,2,0,0,0
+Slovakia,3,0.916,0,0
+Slovenia,0,3.367,0,0.962
+Solomon Islands,7,0,0,0
+Somalia,3,0,0,0
+South Africa,4,0,1.467,0
+South Korea,7,0,0,0
+South Sudan,7,0,0,0
+Spain,8,0,0.064,0
+Sri Lanka,7,0,0,0
+Sudan,3,0,0.182,0
+Suriname,6,0,0,0
+Sweden,4,0,1.188,0
+Switzerland,8,0,0,0
+Syria,7,0,0,0
+Taiwan,7,0,0,0
+Tajikistan,8,0,0,0
+Tanzania,7,0,0,0
+Thailand,7,0,0,0
+Timor,7,0,0,0
+Togo,7,0,0,0
+Trinidad and Tobago,7,0,0,0
+Tunisia,7,0,0,0
+Turkey,2,0,0.249,0
+Uganda,7,0,0,0
+Ukraine,6,0,0.389,0
+United Arab Emirates,5,0,0.101,0
+United Kingdom,9,52.927,1.458,4.066
+United States,4,96.452,1.647,16.072
+Uruguay,7,0,0,0
+Uzbekistan,8,0,0.03,0
+Vanuatu,7,0,0,0
+Vatican,7,0,0,0
+Venezuela,8,0,0.035,0
+Vietnam,7,0,0,0
+Yemen,3,0,0.469,0
+Zambia,7,0,0,0
+Zimbabwe,7,0,0,0

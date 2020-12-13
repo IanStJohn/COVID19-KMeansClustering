@@ -1,0 +1,9 @@
+k_set,"[3, 4, 5, 6, 7, 8, 9, 10]"
+f0,new_cases_per_million,new_deaths_per_million,reproduction_rate,icu_patients_per_million,hosp_patients_per_million,new_tests_per_thousand,positive_rate,tests_per_case,stringency_index
+f1,new_cases_per_million,new_deaths_per_million,new_tests_per_thousand
+f2,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+f3,new_cases_per_million,icu_patients_per_million,hosp_patients_per_million
+f4,new_tests_per_thousand,tests_per_case,stringency_index
+f5,reproduction_rate,positive_rate,stringency_index
+f6,new_cases_per_million,new_deaths_per_million,icu_patients_per_million,hosp_patients_per_million
+f7,new_cases_per_million,reproduction_rate,icu_patients_per_million,new_tests_per_thousand,stringency_index

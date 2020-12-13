@@ -1,0 +1,191 @@
+country,cluster,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+Afghanistan,1,0.334,0,5.395
+Albania,4,2.78,0,223.782
+Algeria,1,0.456,0,23.375
+Andorra,3,0,0,996.57
+Angola,1,0.061,0,2.404
+Antigua and Barbuda,1,0,0,10.212
+Argentina,4,6.24,0,190.128
+Armenia,2,12.824,0,527.464
+Australia,1,0,0,0.471
+Austria,2,9.993,78.722,644.209
+Azerbaijan,5,2.959,0,342.138
+Bahamas,1,0,0,22.886
+Bahrain,0,0,0,99.319
+Bangladesh,1,0.237,0,13.091
+Barbados,1,0,0,3.48
+Belarus,4,0.741,0,158.318
+Belgium,4,11.993,92.41,273.003
+Belize,4,10.06,0,221.316
+Benin,1,0,0,4.784
+Bhutan,1,0,0,0
+Bolivia,1,0.428,0,11.051
+Bosnia and Herzegovina,2,10.668,0,484.331
+Botswana,1,0,0,0
+Brazil,4,3.077,0,225.339
+Brunei,1,0,0,0
+Bulgaria,2,20.292,59.006,534.22
+Burkina Faso,1,0,0,0.957
+Burundi,1,0,0,0
+Cambodia,1,0,0,0
+Cameroon,1,0.038,0,1.733
+Canada,0,1.51,0,131.365
+Cape Verde,4,0,0,226.624
+Central African Republic,1,0,0,0
+Chad,1,0,0,0.365
+Chile,0,0.366,0,52.573
+China,1,0,0,0.074
+Colombia,4,3.596,0,166.991
+Comoros,1,0,0,0
+Congo,1,0,0,0
+Costa Rica,4,2.356,0,261.086
+Cote d'Ivoire,1,0,0,0.455
+Croatia,3,13.641,0,877.653
+Cuba,1,0,0,6.71
+Cyprus,5,1.142,0,289.988
+Czechia,4,10.459,70.688,250.351
+Democratic Republic of Congo,1,0,0,0.614
+Denmark,4,0.863,7.251,204.24
+Djibouti,1,0,0,1.012
+Dominica,1,0,0,0
+Dominican Republic,1,0.184,0,26.272
+Ecuador,0,1.36,0,45.004
+Egypt,1,0.117,0,3.567
+El Salvador,1,0,0,0
+Equatorial Guinea,1,0,0,0
+Eritrea,1,0,0,0
+Estonia,5,2.262,14.323,287.967
+Eswatini,1,0,0,21.549
+Ethiopia,1,0.026,0,4.506
+Fiji,1,0,0,0
+Finland,0,0.722,3.79,65.515
+France,4,5.76,63.364,241.262
+Gabon,1,0,0,10.334
+Gambia,1,0,0,0.414
+Georgia,2,8.523,0,769.833
+Germany,5,4.512,0,390.134
+Ghana,1,0,0,1.319
+Greece,4,8.347,0,206.369
+Grenada,1,0,0,0
+Guatemala,1,0.447,0,35.723
+Guinea,1,0.076,0,5.026
+Guinea-Bissau,1,0,0,0
+Guyana,0,0,0,59.754
+Haiti,1,0,0,1.666
+Honduras,0,1.918,0,91.372
+Hungary,5,10.973,0,393.982
+Iceland,1,0,5.861,41.026
+India,1,0.38,0,32.238
+Indonesia,1,0.417,0,20.232
+International,1,0,0,0
+Iran,4,5.584,0,164.811
+Iraq,0,1.367,0,60.613
+Ireland,0,1.013,7.291,52.048
+Israel,0,0.578,0,124.66
+Italy,5,11.941,63.643,427.576
+Jamaica,1,1.351,0,22.289
+Japan,1,0.158,0,15.41
+Jordan,2,6.077,0,492.495
+Kazakhstan,0,2.61,0,54.536
+Kenya,1,0.149,0,15.064
+Kosovo,5,4.657,0,364.243
+Kuwait,0,0.234,0,98.816
+Kyrgyzstan,0,1.533,0,123.387
+Laos,1,0,0,0
+Latvia,5,4.771,0,307.496
+Lebanon,4,2.344,0,239.691
+Lesotho,1,0,0,0
+Liberia,1,0.198,0,5.338
+Libya,0,2.183,0,89.794
+Liechtenstein,2,26.221,0,655.531
+Lithuania,2,8.449,0,830.918
+Luxembourg,3,7.988,70.29,984.063
+Madagascar,1,0,0,0
+Malawi,1,0,0,0.052
+Malaysia,1,0.124,0,29.97
+Maldives,0,0,0,81.4
+Mali,1,0,0,2.173
+Malta,4,11.324,0,262.717
+Marshall Islands,1,0,0,0
+Mauritania,1,0.43,0,11.399
+Mauritius,1,0,0,2.359
+Mexico,0,6.655,0,80.158
+Moldova,5,5.206,0,389.195
+Monaco,4,0,0,178.371
+Mongolia,1,0,0,3.965
+Montenegro,3,14.33,0,987.164
+Morocco,0,1.896,0,134.894
+Mozambique,1,0.032,0,2.272
+Myanmar,1,0.478,0,24.444
+Namibia,1,0,0,26.762
+Nepal,0,0.961,0,66.857
+Netherlands,5,4.319,33.207,294.954
+New Zealand,1,0,0,0.207
+Nicaragua,1,0,0,0
+Niger,1,0,0,0.537
+Nigeria,1,0,0,0.961
+North Macedonia,2,18.72,0,617.746
+Norway,0,0.369,0,101.637
+Oman,1,0,0,0
+Pakistan,1,0.181,0,14.967
+Palestine,5,1.764,0,337.161
+Panama,5,3.708,0,371.283
+Papua New Guinea,1,0,0,1.677
+Paraguay,0,1.963,0,138.38
+Peru,0,1.334,0,57.079
+Philippines,1,0.274,0,10.887
+Poland,5,17.809,0,405.743
+Portugal,2,6.963,50.703,518.795
+Qatar,0,0.347,0,72.543
+Romania,2,8.733,62.637,506.246
+Russia,4,3.412,0,160.298
+Rwanda,1,0,0,2.239
+Saint Kitts and Nevis,1,0,0,0
+Saint Lucia,0,0,0,49.012
+Saint Vincent and the Grenadines,1,0,0,0
+Samoa,1,0,0,0
+San Marino,3,0,0,1885.792
+Sao Tome and Principe,1,0,0,4.563
+Saudi Arabia,1,0.402,0,9.364
+Senegal,1,0,0,1.135
+Serbia,3,6.025,0,1113.806
+Seychelles,1,0,0,0
+Sierra Leone,1,0,0,0.251
+Singapore,1,0,0,1.197
+Slovakia,5,4.213,0,331.707
+Slovenia,3,20.684,97.646,1070.742
+Solomon Islands,1,0,0,0
+Somalia,1,0,0,0
+South Africa,0,1.99,0,54.798
+South Korea,1,0.039,0,11.371
+South Sudan,1,0.089,0,2.323
+Spain,4,7.892,60.7,218.63
+Sri Lanka,1,0.093,0,23.443
+Sudan,1,0.182,0,4.972
+Suriname,1,0,0,8.523
+Sweden,2,5.446,0,490.531
+Switzerland,2,9.821,0,563.399
+Syria,1,0.343,0,5.143
+Taiwan,1,0,0,0.21
+Tajikistan,1,0,0,3.879
+Tanzania,1,0,0,0
+Thailand,1,0,0,0.229
+Timor,1,0,0,0
+Togo,1,0,0,2.053
+Trinidad and Tobago,1,0.715,0,10.718
+Tunisia,0,4.061,0,92.566
+Turkey,0,1.992,0,80.793
+Uganda,1,0.109,0,10.581
+Ukraine,5,5.442,0,323.869
+United Arab Emirates,0,0.404,0,131.137
+United Kingdom,4,10.238,21.801,268.995
+United States,2,6.927,53.595,547.69
+Uruguay,1,0.288,0,33.969
+Uzbekistan,1,0.06,0,7.231
+Vanuatu,1,0,0,0
+Vatican,1,0,0,0
+Venezuela,1,0.141,0,11.218
+Vietnam,1,0,0,0.051
+Yemen,1,0.067,0,0.335
+Zambia,1,0,0,3.753
+Zimbabwe,1,0,0,7.401

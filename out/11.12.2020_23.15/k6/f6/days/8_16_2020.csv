@@ -1,0 +1,191 @@
+country,cluster,new_cases_per_million,new_deaths_per_million,icu_patients_per_million
+Afghanistan,5,0,0.128,0
+Albania,2,0,1.042,0
+Algeria,3,0,0.228,0
+Andorra,5,0,0,0
+Angola,5,0,0.061,0
+Antigua and Barbuda,5,0,0,0
+Argentina,0,0,1.46,0
+Armenia,2,0,0.337,0
+Australia,3,0,0.98,0
+Austria,3,7.217,0,2.11
+Azerbaijan,3,0,0,0
+Bahamas,0,0,2.543,0
+Bahrain,1,0,0,0
+Bangladesh,3,0,0.194,0
+Barbados,5,0,0,0
+Belarus,3,0,0.741,0
+Belgium,2,29.078,0.345,7.42
+Belize,0,0,0,0
+Benin,5,0,0,0
+Bhutan,5,0,0,0
+Bolivia,0,0,4.712,0
+Bosnia and Herzegovina,5,0,0,0
+Botswana,5,0,0,0
+Brazil,0,0,2.917,0
+Brunei,5,0,0,0
+Bulgaria,4,116.141,0.432,8.059
+Burkina Faso,5,0,0.048,0
+Burundi,5,0,0,0
+Cambodia,5,0,0,0
+Cameroon,5,0,0,0
+Canada,5,0,0.053,0
+Cape Verde,3,0,1.799,0
+Central African Republic,5,0,0,0
+Chad,5,0,0,0
+Chile,0,0,2.982,0
+China,5,0,0,0
+Colombia,1,0,5.64,0
+Comoros,5,0,0,0
+Congo,3,0,2.9,0
+Costa Rica,0,0,0.589,0
+Cote d'Ivoire,5,0,0.076,0
+Croatia,4,30.692,0.244,0
+Cuba,5,0,0,0
+Cyprus,3,0,0,0
+Czechia,3,9.618,0.187,2.428
+Democratic Republic of Congo,5,0,0.011,0
+Denmark,3,2.072,0,0
+Djibouti,5,0,0,0
+Dominica,5,0,0,0
+Dominican Republic,2,0,1.383,0
+Ecuador,2,0,0.283,0
+Egypt,5,0,0.186,0
+El Salvador,2,0,1.388,0
+Equatorial Guinea,5,0,0,0
+Eritrea,5,0,0,0
+Estonia,5,4.523,0,0.754
+Eswatini,2,0,0.862,0
+Ethiopia,3,0,0.165,0
+Fiji,5,0,0,0
+Finland,5,0,0,0
+France,4,73.843,0,5.408
+Gabon,5,0,0,0
+Gambia,2,0,3.724,0
+Georgia,5,0,0,0
+Germany,5,0,0,0
+Ghana,3,0,0,0
+Greece,3,0,0.192,0
+Grenada,5,0,0,0
+Guatemala,3,0,1.34,0
+Guinea,3,0,0.076,0
+Guinea-Bissau,5,0,0,0
+Guyana,2,0,1.271,0
+Haiti,5,0,0,0
+Honduras,2,0,0.808,0
+Hungary,5,6.418,0.104,0
+Iceland,2,0,0,0
+India,2,0,0.682,0
+Indonesia,3,0,0.289,0
+International,5,0,0,0
+Iran,3,0,1.75,0
+Iraq,0,0,1.865,0
+Ireland,3,3.24,0,1.62
+Israel,0,0,2.195,0
+Italy,3,13.943,0.066,0.926
+Jamaica,3,0,0,0
+Japan,3,0,0.079,0
+Jordan,5,0,0,0
+Kazakhstan,2,0,0.266,0
+Kenya,5,0,0.037,0
+Kosovo,2,0,5.691,0
+Kuwait,0,0,0.702,0
+Kyrgyzstan,2,0,0.307,0
+Laos,5,0,0,0
+Latvia,5,2.121,0,0
+Lebanon,2,0,0.879,0
+Lesotho,5,0,0,0
+Liberia,5,0,0,0
+Libya,2,0,1.164,0
+Liechtenstein,5,0,0,0
+Lithuania,3,0,0,0
+Luxembourg,4,59.108,0,4.793
+Madagascar,5,0,0.144,0
+Malawi,5,0,0.209,0
+Malaysia,5,0,0,0
+Maldives,1,0,0,0
+Mali,5,0,0,0
+Malta,5,0,0,0
+Marshall Islands,5,0,0,0
+Mauritania,5,0,0,0
+Mauritius,5,0,0,0
+Mexico,2,0,1.66,0
+Moldova,2,0,0.248,0
+Monaco,5,0,0,0
+Mongolia,5,0,0,0
+Montenegro,0,0,3.184,0
+Morocco,2,0,0.704,0
+Mozambique,5,0,0,0
+Myanmar,5,0,0,0
+Namibia,0,0,0,0
+Nepal,3,0,0.069,0
+Netherlands,2,0,0.175,2.685
+New Zealand,5,0,0,0
+Nicaragua,5,0,0,0
+Niger,5,0,0,0
+Nigeria,5,0,0.005,0
+North Macedonia,2,0,2.4,0
+Norway,3,0,0,0
+Oman,2,0,1.958,0
+Pakistan,5,0,0.059,0
+Palestine,2,0,0.392,0
+Panama,1,0,4.867,0
+Papua New Guinea,5,0,0,0
+Paraguay,2,0,1.542,0
+Peru,1,0,6.642,0
+Philippines,3,0,0.593,0
+Poland,4,53.77,0.211,0
+Portugal,3,31.873,0.294,3.825
+Qatar,0,0,0.347,0
+Romania,2,0,1.923,24.899
+Russia,2,0,0.466,0
+Rwanda,3,0,0,0
+Saint Kitts and Nevis,5,0,0,0
+Saint Lucia,5,0,0,0
+Saint Vincent and the Grenadines,5,0,0,0
+Samoa,5,0,0,0
+San Marino,5,0,0,0
+Sao Tome and Principe,5,0,0,0
+Saudi Arabia,2,0,1.12,0
+Senegal,3,0,0.119,0
+Serbia,2,0,0.588,0
+Seychelles,5,0,0,0
+Sierra Leone,5,0,0,0
+Singapore,3,0,0,0
+Slovakia,3,6.411,0,0
+Slovenia,3,8.177,0,1.443
+Solomon Islands,5,0,0,0
+Somalia,5,0,0,0
+South Africa,2,0,2.731,0
+South Korea,5,0,0,0
+South Sudan,5,0,0,0
+Spain,5,0,0,0
+Sri Lanka,5,0,0,0
+Sudan,5,0,0.046,0
+Suriname,0,0,8.523,0
+Sweden,5,0,0.198,0
+Switzerland,3,0,0,0
+Syria,5,0,0.229,0
+Taiwan,5,0,0,0
+Tajikistan,5,0,0,0
+Tanzania,5,0,0,0
+Thailand,5,0,0,0
+Timor,5,0,0,0
+Togo,5,0,0,0
+Trinidad and Tobago,2,0,0.715,0
+Tunisia,5,0,0,0
+Turkey,3,0,0.225,0
+Uganda,5,0,0,0
+Ukraine,2,0,0.549,0
+United Arab Emirates,3,0,0.303,0
+United Kingdom,3,13.523,0.074,1.149
+United States,4,133.398,1.737,27.063
+Uruguay,5,0,0,0
+Uzbekistan,3,0,0.209,0
+Vanuatu,5,0,0,0
+Vatican,5,0,0,0
+Venezuela,2,0,0.176,0
+Vietnam,5,0,0,0
+Yemen,5,0,0.067,0
+Zambia,3,0,0,0
+Zimbabwe,5,0,0.135,0

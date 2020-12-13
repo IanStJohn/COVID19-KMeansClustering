@@ -1,0 +1,191 @@
+country,cluster,reproduction_rate,positive_rate,stringency_index
+Afghanistan,3,0,0,27.78
+Albania,6,0,0,8.33
+Algeria,1,0,0,0
+Andorra,1,0,0,0
+Angola,6,0,0,8.33
+Antigua and Barbuda,1,0,0,0
+Argentina,5,0,0,11.11
+Armenia,1,0,0,0
+Australia,2,0,0,19.44
+Austria,5,0,0,11.11
+Azerbaijan,2,0,0,19.44
+Bahamas,1,0,0,0
+Bahrain,3,0,0,30.56
+Bangladesh,4,0,0,13.89
+Barbados,4,0,0,13.89
+Belarus,1,0,0,0
+Belgium,5,0,0,11.11
+Belize,5,0,0,11.11
+Benin,4,0,0,13.89
+Bhutan,4,0,0,13.89
+Bolivia,0,0,0,62.04
+Bosnia and Herzegovina,5,0,0,11.11
+Botswana,4,0,0,13.89
+Brazil,6,0,0,5.56
+Brunei,2,0,0,19.44
+Bulgaria,4,0,0,13.89
+Burkina Faso,1,0,0,0
+Burundi,6,0,0,5.56
+Cambodia,1,0,0,0
+Cameroon,1,0,0,0
+Canada,1,0,0,2.78
+Cape Verde,2,0,0,19.44
+Central African Republic,1,0,0,0
+Chad,1,0,0,0
+Chile,1,0,0,0
+China,0,0,0.33,81.02
+Colombia,5,0,0,12.04
+Comoros,1,0,0,0
+Congo,1,0,0,0
+Costa Rica,5,0,0,11.11
+Cote d'Ivoire,1,0,0,0
+Croatia,4,0,0,13.89
+Cuba,4,0,0,13.89
+Cyprus,1,0,0,0
+Czechia,2,0.024,0,19.44
+Democratic Republic of Congo,1,0,0,2.78
+Denmark,5,0.012,0,11.11
+Djibouti,1,0,0,0
+Dominica,1,0,0,0
+Dominican Republic,1,0,0,0
+Ecuador,6,0,0,5.56
+Egypt,1,0,0,0
+El Salvador,2,0,0,19.44
+Equatorial Guinea,1,0,0,0
+Eritrea,1,0,0,0
+Estonia,1,0,0,0
+Eswatini,4,0,0,13.89
+Ethiopia,1,0,0,2.78
+Fiji,2,0,0,19.44
+Finland,2,0,0,19.44
+France,3,0,2.57,34.72
+Gabon,4,0,0,13.89
+Gambia,5,0,0,11.11
+Georgia,3,0,0,30.56
+Germany,3,0,0,25
+Ghana,1,0,0,2.78
+Greece,2,0,0,19.44
+Grenada,1,0,0,0
+Guatemala,5,0,0,11.11
+Guinea,5,0,0,11.11
+Guinea-Bissau,1,0,0,0
+Guyana,4,0,0,13.89
+Haiti,1,0,0,2.78
+Honduras,1,0,0,0
+Hungary,5,0,0,11.11
+Iceland,2,0,0,16.67
+India,5,0,0,10.19
+Indonesia,3,0,0,28.7
+International,1,0,0,0
+Iran,2,0,5,20.37
+Iraq,0,0,0,52.78
+Ireland,5,0,0,11.11
+Israel,2,0.006,0,19.44
+Italy,0,0,3.06,69.91
+Jamaica,2,0,0,19.44
+Japan,3,0.127,1.18,34.26
+Jordan,1,0,0,0
+Kazakhstan,6,0,0,8.33
+Kenya,4,0,0,13.89
+Kosovo,1,0,0,0
+Kuwait,3,0,0,27.78
+Kyrgyzstan,2,0,0,22.22
+Laos,1,0,0,0
+Latvia,6,0,0,8.33
+Lebanon,3,0,0,25
+Lesotho,1,0,0,0
+Liberia,6,0,0,5.56
+Libya,6,0,0,5.56
+Liechtenstein,1,0,0,0
+Lithuania,5,0,0,11.11
+Luxembourg,1,0,0,0
+Madagascar,1,0,0,0
+Malawi,6,0,0,5.56
+Malaysia,2,0.011,0,19.44
+Maldives,1,0,0,0
+Mali,1,0,0,0
+Malta,1,0,0,0
+Marshall Islands,1,0,0,0
+Mauritania,6,0,0,5.56
+Mauritius,1,0,0,0
+Mexico,1,0.004,0,2.78
+Moldova,6,0,0,8.33
+Monaco,2,0,0,18.52
+Mongolia,0,0,0,65.74
+Montenegro,1,0,0,0
+Morocco,1,0,0,0
+Mozambique,6,0,0,8.33
+Myanmar,1,0,0,2.78
+Namibia,1,0,0,2.78
+Nepal,2,0,0,22.22
+Netherlands,1,0,0,0
+New Zealand,2,0,0,19.44
+Nicaragua,6,0,0,8.33
+Niger,1,0,0,0
+Nigeria,5,0,0,11.11
+North Macedonia,1,0,0,0
+Norway,5,0,0,11.11
+Oman,2,0,0,19.44
+Pakistan,3,0,0,28.7
+Palestine,6,0,0,5.56
+Panama,6,0,0,8.33
+Papua New Guinea,4,0,0,13.89
+Paraguay,6,0,0,5.56
+Peru,1,0,0,0
+Philippines,3,0,0,25
+Poland,5,0,0,11.11
+Portugal,5,0,0,11.11
+Qatar,4,0,0,13.89
+Romania,2,0,0,16.67
+Russia,6,0,0,8.33
+Rwanda,4,0,0,13.89
+Saint Kitts and Nevis,1,0,0,0
+Saint Lucia,1,0,0,0
+Saint Vincent and the Grenadines,1,0,0,0
+Samoa,1,0,0,0
+San Marino,3,0,0,33.33
+Sao Tome and Principe,1,0,0,0
+Saudi Arabia,5,0,0,11.11
+Senegal,1,0,0,0
+Serbia,4,0,0,13.89
+Seychelles,2,0,0,16.67
+Sierra Leone,1,0,0,0
+Singapore,3,0,0.45,25
+Slovakia,1,0,0,2.78
+Slovenia,1,0,0,0
+Solomon Islands,6,0,0,8.33
+Somalia,1,0,0,0
+South Africa,1,0,0,2.78
+South Korea,0,0.042,2.17,55.56
+South Sudan,6,0,0,5.56
+Spain,5,0,0,11.11
+Sri Lanka,5,0,0,11.11
+Sudan,6,0,0,5.56
+Suriname,1,0,0,0
+Sweden,1,0,0,0
+Switzerland,2,0.014,0,19.44
+Syria,1,0,0,2.78
+Taiwan,2,0.003,0,23.15
+Tajikistan,5,0,0,11.11
+Tanzania,1,0,0,2.78
+Thailand,1,0.001,0,0
+Timor,5,0,0,11.11
+Togo,1,0,0,0
+Trinidad and Tobago,5,0,0,11.11
+Tunisia,1,0,0,0
+Turkey,2,0,0,19.44
+Uganda,2,0,0,16.67
+Ukraine,1,0,0,0
+United Arab Emirates,4,0.001,0,15.74
+United Kingdom,5,0,0,11.11
+United States,6,0,0,8.33
+Uruguay,1,0,0,0
+Uzbekistan,2,0,0,16.67
+Vanuatu,1,0,0,0
+Vatican,1,0,0,0
+Venezuela,5,0,0,11.11
+Vietnam,0,0,0,47.22
+Yemen,1,0,0,0
+Zambia,2,0,0,16.67
+Zimbabwe,6,0,0,8.33
